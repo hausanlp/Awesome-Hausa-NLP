@@ -3,6 +3,7 @@
 
 - [Models](#models)
   - [Sentiment Analysis](https://huggingface.co/Davlan/naija-twitter-sentiment-afriberta-large)
+  - [Bert Hausa Sentimental](https://huggingface.co/Oloruntobi/bert-hausa-sentimental)
 
 
 <!--
